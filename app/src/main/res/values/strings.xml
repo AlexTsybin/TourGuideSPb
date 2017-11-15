@@ -1,0 +1,199 @@
+<resources>
+    <string name="app_name">Tour Guide: St. Petersburg</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_theaters">Theaters</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_cafes">Cafes</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_places">Places</string>
+
+    <!-- Vocabulary word for the number one [CHAR LIMIT=20] -->
+    <!-- PARKS -->
+    <string name="park_one">Sosnovka</string>
+    <string name="park_two">Tavricheskiy sad</string>
+    <string name="park_three">sad-parter Smolnogo</string>
+    <string name="park_four">Letniy sad</string>
+    <string name="park_five">Mikhailovskiy sad</string>
+    <string name="park_six">Botanicheskiy sad</string>
+    <string name="park_seven">TsPKiO</string>
+    <string name="park_eight">park Lesotechnich. acad.</string>
+    <string name="park_nine">Alexandria</string>
+    <string name="park_ten">Sergievka</string>
+
+    <string name="park_time_one">around the clock</string>
+    <string name="park_time_two">around the clock</string>
+    <string name="park_time_three">around the clock</string>
+    <string name="park_time_four">around the clock</string>
+    <string name="park_time_five">around the clock</string>
+    <string name="park_time_six">around the clock</string>
+    <string name="park_time_seven">around the clock</string>
+    <string name="park_time_eight">around the clock</string>
+    <string name="park_time_nine">around the clock</string>
+    <string name="park_time_ten">around the clock</string>
+
+    <string name="park_tick_one">free</string>
+    <string name="park_tick_two">free</string>
+    <string name="park_tick_three">free</string>
+    <string name="park_tick_four">free</string>
+    <string name="park_tick_five">free</string>
+    <string name="park_tick_six">free</string>
+    <string name="park_tick_seven">free</string>
+    <string name="park_tick_eight">free</string>
+    <string name="park_tick_nine">free</string>
+    <string name="park_tick_ten">free</string>
+
+    <string name="park_map_one">geo:60.0219,30.3495</string>
+    <string name="park_map_two">geo:59.945596,30.372777</string>
+    <string name="park_map_three">geo:59.946500,30.393205</string>
+    <string name="park_map_four">geo:59.943403,30.336244</string>
+    <string name="park_map_five">geo:59.939998,30.332437</string>
+    <string name="park_map_six">geo:59.970044,30.325248</string>
+    <string name="park_map_seven">geo:59.979229,30.260725</string>
+    <string name="park_map_eight">geo:59.992281,30.344496</string>
+    <string name="park_map_nine">geo:59.880039,29.939933</string>
+    <string name="park_map_ten">geo:59.894244,29.842930</string>
+
+    <!--THEATERS-->
+    <string name="theater_one">Lensoveta</string>
+    <string name="theater_two">BDT</string>
+    <string name="theater_three">MDT</string>
+    <string name="theater_four">...</string>
+    <string name="theater_five">...</string>
+    <string name="theater_six">...</string>
+    <string name="theater_seven">...</string>
+    <string name="theater_eight">...</string>
+    <string name="theater_nine">...</string>
+    <string name="theater_ten">...</string>
+
+    <string name="theater_time_one">around the clock</string>
+    <string name="theater_time_two">around the clock</string>
+    <string name="theater_time_three">around the clock</string>
+    <string name="theater_time_four">around the clock</string>
+    <string name="theater_time_five">around the clock</string>
+    <string name="theater_time_six">around the clock</string>
+    <string name="theater_time_seven">around the clock</string>
+    <string name="theater_time_eight">around the clock</string>
+    <string name="theater_time_nine">around the clock</string>
+    <string name="theater_time_ten">around the clock</string>
+
+    <string name="theater_tick_one">free</string>
+    <string name="theater_tick_two">free</string>
+    <string name="theater_tick_three">free</string>
+    <string name="theater_tick_four">free</string>
+    <string name="theater_tick_five">free</string>
+    <string name="theater_tick_six">free</string>
+    <string name="theater_tick_seven">free</string>
+    <string name="theater_tick_eight">free</string>
+    <string name="theater_tick_nine">free</string>
+    <string name="theater_tick_ten">free</string>
+
+    <string name="theater_map_one">geo:60.0219,30.3495</string>
+    <string name="theater_map_two">geo:59.945596,30.372777</string>
+    <string name="theater_map_three">geo:59.946500,30.393205</string>
+    <string name="theater_map_four">geo:59.943403,30.336244</string>
+    <string name="theater_map_five">geo:59.939998,30.332437</string>
+    <string name="theater_map_six">geo:59.970044,30.325248</string>
+    <string name="theater_map_seven">geo:59.979229,30.260725</string>
+    <string name="theater_map_eight">geo:59.992281,30.344496</string>
+    <string name="theater_map_nine">geo:59.880039,29.939933</string>
+    <string name="theater_map_ten">geo:59.894244,29.842930</string>
+
+    <!--PLACES-->
+    <string name="place_one">Dvortsovaya pl</string>
+    <string name="place_two">pl. Vosstaniya</string>
+    <string name="place_three">Nevskiy pr.</string>
+    <string name="place_four">...</string>
+    <string name="place_five">...</string>
+    <string name="place_six">...</string>
+    <string name="place_seven">...</string>
+    <string name="place_eight">...</string>
+    <string name="place_nine">...</string>
+    <string name="place_ten">...</string>
+
+    <string name="place_time_one">around the clock</string>
+    <string name="place_time_two">around the clock</string>
+    <string name="place_time_three">around the clock</string>
+    <string name="place_time_four">around the clock</string>
+    <string name="place_time_five">around the clock</string>
+    <string name="place_time_six">around the clock</string>
+    <string name="place_time_seven">around the clock</string>
+    <string name="place_time_eight">around the clock</string>
+    <string name="place_time_nine">around the clock</string>
+    <string name="place_time_ten">around the clock</string>
+
+    <string name="place_tick_one">free</string>
+    <string name="place_tick_two">free</string>
+    <string name="place_tick_three">free</string>
+    <string name="place_tick_four">free</string>
+    <string name="place_tick_five">free</string>
+    <string name="place_tick_six">free</string>
+    <string name="place_tick_seven">free</string>
+    <string name="place_tick_eight">free</string>
+    <string name="place_tick_nine">free</string>
+    <string name="place_tick_ten">free</string>
+
+    <string name="place_map_one">geo:60.0219,30.3495</string>
+    <string name="place_map_two">geo:59.945596,30.372777</string>
+    <string name="place_map_three">geo:59.946500,30.393205</string>
+    <string name="place_map_four">geo:59.943403,30.336244</string>
+    <string name="place_map_five">geo:59.939998,30.332437</string>
+    <string name="place_map_six">geo:59.970044,30.325248</string>
+    <string name="place_map_seven">geo:59.979229,30.260725</string>
+    <string name="place_map_eight">geo:59.992281,30.344496</string>
+    <string name="place_map_nine">geo:59.880039,29.939933</string>
+    <string name="place_map_ten">geo:59.894244,29.842930</string>
+
+    <!--CAFES-->
+    <string name="cafe_one">McD</string>
+    <string name="cafe_two">Shalyapin</string>
+    <string name="cafe_three">Burgers</string>
+    <string name="cafe_four">...</string>
+    <string name="cafe_five">...</string>
+    <string name="cafe_six">...</string>
+    <string name="cafe_seven">...</string>
+    <string name="cafe_eight">...</string>
+    <string name="cafe_nine">...</string>
+    <string name="cafe_ten">...</string>
+
+    <string name="cafe_time_one">around the clock</string>
+    <string name="cafe_time_two">around the clock</string>
+    <string name="cafe_time_three">around the clock</string>
+    <string name="cafe_time_four">around the clock</string>
+    <string name="cafe_time_five">around the clock</string>
+    <string name="cafe_time_six">around the clock</string>
+    <string name="cafe_time_seven">around the clock</string>
+    <string name="cafe_time_eight">around the clock</string>
+    <string name="cafe_time_nine">around the clock</string>
+    <string name="cafe_time_ten">around the clock</string>
+
+    <string name="cafe_tick_one">free</string>
+    <string name="cafe_tick_two">free</string>
+    <string name="cafe_tick_three">free</string>
+    <string name="cafe_tick_four">free</string>
+    <string name="cafe_tick_five">free</string>
+    <string name="cafe_tick_six">free</string>
+    <string name="cafe_tick_seven">free</string>
+    <string name="cafe_tick_eight">free</string>
+    <string name="cafe_tick_nine">free</string>
+    <string name="cafe_tick_ten">free</string>
+
+    <string name="cafe_map_one">geo:60.0219,30.3495</string>
+    <string name="cafe_map_two">geo:59.945596,30.372777</string>
+    <string name="cafe_map_three">geo:59.946500,30.393205</string>
+    <string name="cafe_map_four">geo:59.943403,30.336244</string>
+    <string name="cafe_map_five">geo:59.939998,30.332437</string>
+    <string name="cafe_map_six">geo:59.970044,30.325248</string>
+    <string name="cafe_map_seven">geo:59.979229,30.260725</string>
+    <string name="cafe_map_eight">geo:59.992281,30.344496</string>
+    <string name="cafe_map_nine">geo:59.880039,29.939933</string>
+    <string name="cafe_map_ten">geo:59.894244,29.842930</string>
+
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    
+</resources>
